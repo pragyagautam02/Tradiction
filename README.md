@@ -9,7 +9,8 @@ With the help of Machine Learning , we are going to predict the stock prices , m
 
 LTSMs are a type of Recurrent Neural Network for learning long-term dependencies. It is commonly used for processing and predicting time-series data.
 
-<img width="1200" alt="LSTM" src="https://user-images.githubusercontent.com/75442226/166807428-84675766-d658-4bf5-9960-60e28aa0e1fe.png">
+<img width="1200" alt="166753353-820f9311-dc25-4915-a388-61cb5566ea75" src="https://user-images.githubusercontent.com/75442226/166808480-7e0c3dab-9d80-4052-a272-8a12e4f69646.png">
+
 
 you can see LSTMs have a chain-like structure. General RNNs have a single neural network layer. LSTMs, on the other hand, have four interacting layers communicating extraordinarily.
 
